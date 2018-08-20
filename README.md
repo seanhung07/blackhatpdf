@@ -1,0 +1,1 @@
+installation: bash pdf.sh
